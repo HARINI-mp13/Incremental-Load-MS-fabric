@@ -95,3 +95,7 @@ Update Watermark  ──►  Save new high-watermark timestamp
 
 Check out my end-to-end Medallion Architecture project:  
 🔗 [fabric-medallion-sales-analytics](https://github.com/HARINI-mp13/fabric-medallion-sales-analytics)
+
+## Author
+
+**Harini**   
